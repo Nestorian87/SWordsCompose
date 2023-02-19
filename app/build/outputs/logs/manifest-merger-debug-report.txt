@@ -1,0 +1,332 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.navigation:navigation-compose:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\6bceb486a070db69d4c8de3a2f5227ba\transformed\navigation-compose-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] C:\Users\Nestorian\.gradle\caches\transforms-3\d9e9f22d1baad381745ae3a6254e4c4e\transformed\lifecycle-viewmodel-compose-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3:1.1.0-alpha06] C:\Users\Nestorian\.gradle\caches\transforms-3\614962e02eeba8b33028a4c9173e66b9\transformed\material3-1.1.0-alpha06\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\a327ff46ff306e9f199874bca204cec4\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\3f200612ef9f89fad718600c05e5a559\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\047ae76ef216d306c91d8b1a7cc238ff\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\6a45410f79c2db0c9137a34691261218\transformed\navigation-common-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\08b4f3ec59be6303fa39dabcb4c6019a\transformed\ui-tooling-1.3.3\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.6.1] C:\Users\Nestorian\.gradle\caches\transforms-3\c1c17f90dcde8908005a670684bba4a5\transformed\activity-compose-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material:1.0.0] C:\Users\Nestorian\.gradle\caches\transforms-3\3ed0c1302778927d4fa0502c4882a514\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.3.1] C:\Users\Nestorian\.gradle\caches\transforms-3\33645faa3f51bed297cbbd2335bb9c3e\transformed\material-ripple-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\9455cd170684718b94cb039ed06ee80d\transformed\foundation-1.4.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\8bb2aff9645edd58321dc2acfb711ddf\transformed\animation-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\7cf2c794918904631beef3693ed584a8\transformed\ui-tooling-data-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] C:\Users\Nestorian\.gradle\caches\transforms-3\d433d1afa842b3bebfa80d2cb496d0f9\transformed\material-icons-core-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\ad3f34dbd8cdb140f5d99e6812ea0f71\transformed\foundation-layout-1.4.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\e71be35e72d102df4025d0278fdc5de3\transformed\animation-core-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\aeb5423b0e49665bbdb5f3ae1399fda4\transformed\ui-1.4.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\fcd588552019d93cfb7eb603b48660cd\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.7.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\d69ac638ea3d21e02385bcb56409a156\transformed\activity-1.7.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.7.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\1c6e5ac3e05195f73c560402a9dc8729\transformed\activity-ktx-1.7.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Nestorian\.gradle\caches\transforms-3\3c83efd29a510ee6e9266fcf11d1a78f\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Nestorian\.gradle\caches\transforms-3\81d1a43833cbd64e9b386d42a5ce9c86\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Nestorian\.gradle\caches\transforms-3\9662b19b79b37928782d0ce49f0003eb\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\493d8f7a7626622ca398537d8f95b23f\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\d48bb882b0eb8821e6e7274a85f49d93\transformed\ui-text-1.4.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Nestorian\.gradle\caches\transforms-3\0a8813828ebb496c34c1eae7dc011a98\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nestorian\.gradle\caches\transforms-3\632dbc7dc8bfddc7c52759b8a4f188c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\d30dd303f0ed1341ed94feb5a000ec6f\transformed\lifecycle-runtime-ktx-2.6.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\f866344b6dc5f631c664323e96e6c698\transformed\lifecycle-runtime-2.6.0-beta01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\1cce2d9ec4caaf14c835af19376dd1c3\transformed\lifecycle-livedata-core-2.6.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\e3e0c3b01c3724dee007d094de6089dd\transformed\lifecycle-viewmodel-savedstate-2.6.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\1a982e7b66757be556e2d9f0472496bd\transformed\lifecycle-viewmodel-2.6.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\d73f5dc3850bbe290a821e84e4fe3cf3\transformed\lifecycle-viewmodel-ktx-2.6.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\de65efa35c0cb036da355c85307bc8dd\transformed\ui-tooling-preview-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\0741ba1735bee8d82540c41a50da6523\transformed\runtime-saveable-1.4.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\3f4e1dc75a2fc4f425b875de907d2f95\transformed\ui-graphics-1.4.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\9240ed0106ee15a958e60b2ee6c4a4f2\transformed\ui-unit-1.4.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\f7c7e7ede3983b570805c3a473086a2d\transformed\ui-geometry-1.4.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\7593bd71c38321f9dc7e90ff4c049a89\transformed\runtime-1.4.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Nestorian\.gradle\caches\transforms-3\9245842a5ca8bf45f16957c0adcc89a2\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nestorian\.gradle\caches\transforms-3\5a8525f5e7b2225b964189262a27663a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nestorian\.gradle\caches\transforms-3\42385cd40bc93d611dc2b42bc52caf13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nestorian\.gradle\caches\transforms-3\55216fd285bba804d48cf30c449b12e8\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0-rc01] C:\Users\Nestorian\.gradle\caches\transforms-3\4ed3164d1514af5f34de2954e448d5a7\transformed\core-runtime-2.2.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\9057968fd41e27c92e096ef6d5ab9a10\transformed\ui-util-1.4.0-beta01\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\08b4f3ec59be6303fa39dabcb4c6019a\transformed\ui-tooling-1.3.3\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\08b4f3ec59be6303fa39dabcb4c6019a\transformed\ui-tooling-1.3.3\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\fcd588552019d93cfb7eb603b48660cd\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\fcd588552019d93cfb7eb603b48660cd\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nestorian\.gradle\caches\transforms-3\632dbc7dc8bfddc7c52759b8a4f188c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nestorian\.gradle\caches\transforms-3\632dbc7dc8bfddc7c52759b8a4f188c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nestorian\.gradle\caches\transforms-3\5a8525f5e7b2225b964189262a27663a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nestorian\.gradle\caches\transforms-3\5a8525f5e7b2225b964189262a27663a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nestorian\.gradle\caches\transforms-3\42385cd40bc93d611dc2b42bc52caf13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nestorian\.gradle\caches\transforms-3\42385cd40bc93d611dc2b42bc52caf13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:8:9-54
+	tools:targetApi
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:13:9-29
+	android:icon
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:12:9-51
+	android:dataExtractionRules
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.nestor87.swords.MainActivity
+ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:14:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:17:13-56
+	android:exported
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:16:13-36
+	android:theme
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:18:13-55
+	android:name
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-compose:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\6bceb486a070db69d4c8de3a2f5227ba\transformed\navigation-compose-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\6bceb486a070db69d4c8de3a2f5227ba\transformed\navigation-compose-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] C:\Users\Nestorian\.gradle\caches\transforms-3\d9e9f22d1baad381745ae3a6254e4c4e\transformed\lifecycle-viewmodel-compose-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] C:\Users\Nestorian\.gradle\caches\transforms-3\d9e9f22d1baad381745ae3a6254e4c4e\transformed\lifecycle-viewmodel-compose-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3:1.1.0-alpha06] C:\Users\Nestorian\.gradle\caches\transforms-3\614962e02eeba8b33028a4c9173e66b9\transformed\material3-1.1.0-alpha06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.0-alpha06] C:\Users\Nestorian\.gradle\caches\transforms-3\614962e02eeba8b33028a4c9173e66b9\transformed\material3-1.1.0-alpha06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\a327ff46ff306e9f199874bca204cec4\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\a327ff46ff306e9f199874bca204cec4\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\3f200612ef9f89fad718600c05e5a559\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\3f200612ef9f89fad718600c05e5a559\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\047ae76ef216d306c91d8b1a7cc238ff\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\047ae76ef216d306c91d8b1a7cc238ff\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\6a45410f79c2db0c9137a34691261218\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\Nestorian\.gradle\caches\transforms-3\6a45410f79c2db0c9137a34691261218\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\08b4f3ec59be6303fa39dabcb4c6019a\transformed\ui-tooling-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\08b4f3ec59be6303fa39dabcb4c6019a\transformed\ui-tooling-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.6.1] C:\Users\Nestorian\.gradle\caches\transforms-3\c1c17f90dcde8908005a670684bba4a5\transformed\activity-compose-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.6.1] C:\Users\Nestorian\.gradle\caches\transforms-3\c1c17f90dcde8908005a670684bba4a5\transformed\activity-compose-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.0.0] C:\Users\Nestorian\.gradle\caches\transforms-3\3ed0c1302778927d4fa0502c4882a514\transformed\material-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.0] C:\Users\Nestorian\.gradle\caches\transforms-3\3ed0c1302778927d4fa0502c4882a514\transformed\material-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.3.1] C:\Users\Nestorian\.gradle\caches\transforms-3\33645faa3f51bed297cbbd2335bb9c3e\transformed\material-ripple-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.1] C:\Users\Nestorian\.gradle\caches\transforms-3\33645faa3f51bed297cbbd2335bb9c3e\transformed\material-ripple-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\9455cd170684718b94cb039ed06ee80d\transformed\foundation-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\9455cd170684718b94cb039ed06ee80d\transformed\foundation-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\8bb2aff9645edd58321dc2acfb711ddf\transformed\animation-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\8bb2aff9645edd58321dc2acfb711ddf\transformed\animation-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\7cf2c794918904631beef3693ed584a8\transformed\ui-tooling-data-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\7cf2c794918904631beef3693ed584a8\transformed\ui-tooling-data-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] C:\Users\Nestorian\.gradle\caches\transforms-3\d433d1afa842b3bebfa80d2cb496d0f9\transformed\material-icons-core-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] C:\Users\Nestorian\.gradle\caches\transforms-3\d433d1afa842b3bebfa80d2cb496d0f9\transformed\material-icons-core-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\ad3f34dbd8cdb140f5d99e6812ea0f71\transformed\foundation-layout-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\ad3f34dbd8cdb140f5d99e6812ea0f71\transformed\foundation-layout-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\e71be35e72d102df4025d0278fdc5de3\transformed\animation-core-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\e71be35e72d102df4025d0278fdc5de3\transformed\animation-core-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\aeb5423b0e49665bbdb5f3ae1399fda4\transformed\ui-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\aeb5423b0e49665bbdb5f3ae1399fda4\transformed\ui-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\fcd588552019d93cfb7eb603b48660cd\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\fcd588552019d93cfb7eb603b48660cd\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\d69ac638ea3d21e02385bcb56409a156\transformed\activity-1.7.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\d69ac638ea3d21e02385bcb56409a156\transformed\activity-1.7.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\1c6e5ac3e05195f73c560402a9dc8729\transformed\activity-ktx-1.7.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\1c6e5ac3e05195f73c560402a9dc8729\transformed\activity-ktx-1.7.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Nestorian\.gradle\caches\transforms-3\3c83efd29a510ee6e9266fcf11d1a78f\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Nestorian\.gradle\caches\transforms-3\3c83efd29a510ee6e9266fcf11d1a78f\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Nestorian\.gradle\caches\transforms-3\81d1a43833cbd64e9b386d42a5ce9c86\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Nestorian\.gradle\caches\transforms-3\81d1a43833cbd64e9b386d42a5ce9c86\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Nestorian\.gradle\caches\transforms-3\9662b19b79b37928782d0ce49f0003eb\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Nestorian\.gradle\caches\transforms-3\9662b19b79b37928782d0ce49f0003eb\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\493d8f7a7626622ca398537d8f95b23f\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\493d8f7a7626622ca398537d8f95b23f\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\d48bb882b0eb8821e6e7274a85f49d93\transformed\ui-text-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\d48bb882b0eb8821e6e7274a85f49d93\transformed\ui-text-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Nestorian\.gradle\caches\transforms-3\0a8813828ebb496c34c1eae7dc011a98\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Nestorian\.gradle\caches\transforms-3\0a8813828ebb496c34c1eae7dc011a98\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nestorian\.gradle\caches\transforms-3\632dbc7dc8bfddc7c52759b8a4f188c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nestorian\.gradle\caches\transforms-3\632dbc7dc8bfddc7c52759b8a4f188c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\d30dd303f0ed1341ed94feb5a000ec6f\transformed\lifecycle-runtime-ktx-2.6.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\d30dd303f0ed1341ed94feb5a000ec6f\transformed\lifecycle-runtime-ktx-2.6.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\f866344b6dc5f631c664323e96e6c698\transformed\lifecycle-runtime-2.6.0-beta01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\f866344b6dc5f631c664323e96e6c698\transformed\lifecycle-runtime-2.6.0-beta01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\1cce2d9ec4caaf14c835af19376dd1c3\transformed\lifecycle-livedata-core-2.6.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\1cce2d9ec4caaf14c835af19376dd1c3\transformed\lifecycle-livedata-core-2.6.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\e3e0c3b01c3724dee007d094de6089dd\transformed\lifecycle-viewmodel-savedstate-2.6.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\e3e0c3b01c3724dee007d094de6089dd\transformed\lifecycle-viewmodel-savedstate-2.6.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\1a982e7b66757be556e2d9f0472496bd\transformed\lifecycle-viewmodel-2.6.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\1a982e7b66757be556e2d9f0472496bd\transformed\lifecycle-viewmodel-2.6.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\d73f5dc3850bbe290a821e84e4fe3cf3\transformed\lifecycle-viewmodel-ktx-2.6.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\d73f5dc3850bbe290a821e84e4fe3cf3\transformed\lifecycle-viewmodel-ktx-2.6.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\de65efa35c0cb036da355c85307bc8dd\transformed\ui-tooling-preview-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\de65efa35c0cb036da355c85307bc8dd\transformed\ui-tooling-preview-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\0741ba1735bee8d82540c41a50da6523\transformed\runtime-saveable-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\0741ba1735bee8d82540c41a50da6523\transformed\runtime-saveable-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\3f4e1dc75a2fc4f425b875de907d2f95\transformed\ui-graphics-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\3f4e1dc75a2fc4f425b875de907d2f95\transformed\ui-graphics-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\9240ed0106ee15a958e60b2ee6c4a4f2\transformed\ui-unit-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\9240ed0106ee15a958e60b2ee6c4a4f2\transformed\ui-unit-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\f7c7e7ede3983b570805c3a473086a2d\transformed\ui-geometry-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\f7c7e7ede3983b570805c3a473086a2d\transformed\ui-geometry-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\7593bd71c38321f9dc7e90ff4c049a89\transformed\runtime-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\7593bd71c38321f9dc7e90ff4c049a89\transformed\runtime-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Nestorian\.gradle\caches\transforms-3\9245842a5ca8bf45f16957c0adcc89a2\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Nestorian\.gradle\caches\transforms-3\9245842a5ca8bf45f16957c0adcc89a2\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nestorian\.gradle\caches\transforms-3\5a8525f5e7b2225b964189262a27663a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nestorian\.gradle\caches\transforms-3\5a8525f5e7b2225b964189262a27663a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nestorian\.gradle\caches\transforms-3\42385cd40bc93d611dc2b42bc52caf13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nestorian\.gradle\caches\transforms-3\42385cd40bc93d611dc2b42bc52caf13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nestorian\.gradle\caches\transforms-3\55216fd285bba804d48cf30c449b12e8\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nestorian\.gradle\caches\transforms-3\55216fd285bba804d48cf30c449b12e8\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0-rc01] C:\Users\Nestorian\.gradle\caches\transforms-3\4ed3164d1514af5f34de2954e448d5a7\transformed\core-runtime-2.2.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0-rc01] C:\Users\Nestorian\.gradle\caches\transforms-3\4ed3164d1514af5f34de2954e448d5a7\transformed\core-runtime-2.2.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\9057968fd41e27c92e096ef6d5ab9a10\transformed\ui-util-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.0-beta01] C:\Users\Nestorian\.gradle\caches\transforms-3\9057968fd41e27c92e096ef6d5ab9a10\transformed\ui-util-1.4.0-beta01\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nestorian\AndroidStudioProjects\SWordsCompose\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\08b4f3ec59be6303fa39dabcb4c6019a\transformed\ui-tooling-1.3.3\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\08b4f3ec59be6303fa39dabcb4c6019a\transformed\ui-tooling-1.3.3\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\08b4f3ec59be6303fa39dabcb4c6019a\transformed\ui-tooling-1.3.3\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\fcd588552019d93cfb7eb603b48660cd\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\fcd588552019d93cfb7eb603b48660cd\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\Nestorian\.gradle\caches\transforms-3\fcd588552019d93cfb7eb603b48660cd\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nestorian\.gradle\caches\transforms-3\632dbc7dc8bfddc7c52759b8a4f188c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nestorian\.gradle\caches\transforms-3\632dbc7dc8bfddc7c52759b8a4f188c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nestorian\.gradle\caches\transforms-3\42385cd40bc93d611dc2b42bc52caf13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nestorian\.gradle\caches\transforms-3\42385cd40bc93d611dc2b42bc52caf13\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0-beta02] C:\Users\Nestorian\.gradle\caches\transforms-3\b7654e52fe8509c8ac979b78b31c0d07\transformed\emoji2-1.3.0-beta02\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.nestor87.swords.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.nestor87.swords.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Nestorian\.gradle\caches\transforms-3\03558b92d9c65de6ddc3da43b78d88e2\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nestorian\.gradle\caches\transforms-3\632dbc7dc8bfddc7c52759b8a4f188c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nestorian\.gradle\caches\transforms-3\632dbc7dc8bfddc7c52759b8a4f188c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nestorian\.gradle\caches\transforms-3\632dbc7dc8bfddc7c52759b8a4f188c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.1] C:\Users\Nestorian\.gradle\caches\transforms-3\487f483d8283705eb112ede2bf87848b\transformed\profileinstaller-1.2.1\AndroidManifest.xml:45:25-82
